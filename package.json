@@ -1,0 +1,24 @@
+{
+  "name": "dizemonz",
+  "version": "1.0.0",
+  "description": "projeto cartas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dizeritus/dizemon.git"
+  },
+  "author": "dizeritus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dizeritus/dizemon/issues"
+  },
+  "homepage": "https://github.com/Dizeritus/dizemon#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "fastify": "^4.1.0",
+    "mysql2": "^2.3.3"
+  }
+}
